@@ -1,5 +1,6 @@
 # Geometry-Videogame-Exe
 -Si no tens cap usuari, registra un fent click a "Register"
+
 a) Introdueix un nom d'usuari
 b) Introdueix un email
 c) Introdueix una contrassenya de minim 6 caracters
