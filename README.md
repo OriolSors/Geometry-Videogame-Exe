@@ -7,6 +7,7 @@ c) Introdueix una contrassenya de minim 6 caracters
 d) Tria si l'usuari es Designer o Player
 
 -Pel Designer
+
 a) La camera de l'escenari es controla amb les tecles WASD, s'afegeix una figura amb el boto esquerra del ratoli i s'elimina amb el dret
 
 Pel Player
